@@ -1,3 +1,4 @@
 belajar git
 1. Anime favorit
 2. sekedar belajar kode nuklir
+3. ayo belajar lagi dah biar jadi pro backend
