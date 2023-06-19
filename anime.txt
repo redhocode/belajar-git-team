@@ -1,2 +1,3 @@
 belajar git
 1. Anime favorit
+2. sekedar belajar kode nuklir
