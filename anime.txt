@@ -6,3 +6,4 @@ belajar git
     - grand blue
     - Banana fish
     - Shingeki no bahamut
+    - SAO
